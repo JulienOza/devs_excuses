@@ -1,0 +1,11 @@
+@import "../../variable.scss";
+
+.pagetitle {
+  padding: 1rem;
+  font-size: 2rem;
+  border: 2px solid $fontcolor;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}

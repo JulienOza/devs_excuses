@@ -1,6 +1,7 @@
-# Simple React Vite & Express fullstack template
+# Developpers Excuses
 
-This minimal fullstack template is using :
+This web-app display random messages for http errors.
+You can also add your own messages.
 
 ## Stack
 
