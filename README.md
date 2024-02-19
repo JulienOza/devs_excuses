@@ -1,4 +1,4 @@
-# Developpers Excuses
+# Developper's Excuses
 
 This web-app display random messages for http errors.
 You can also add your own messages.
